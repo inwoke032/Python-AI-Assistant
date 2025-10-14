@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Sensitive and local files (DO NOT UPLOAD)
+config.json
+*.db
+*.log
+user_config.txt
+chat_history.json
+
+# Learned skills and other generated files
+learned_skills/
+*.png
