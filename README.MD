@@ -9,7 +9,7 @@ An intelligent, voice-controlled virtual assistant built in Python that can lear
 
 ## 📸 Demo
 
-![Assistant Screenshot] https://github.com/inwoke032/Python-AI-Assistant/blob/main/preview.gif?raw=true
+![Assistant Screenshot] (https://github.com/inwoke032/Python-AI-Assistant/blob/main/preview.gif?raw=true)
 
 ---
 
