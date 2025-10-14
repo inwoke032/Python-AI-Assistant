@@ -49,8 +49,8 @@ Follow these instructions to get the assistant running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-    cd your-repo
+    git clone https://github.com/inwoke032/Python-AI-Assistant.git
+    cd Python-AI-Assistant
     ```
 
 2.  **Create and activate a virtual environment (highly recommended):**
