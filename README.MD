@@ -9,8 +9,6 @@ An intelligent, voice-controlled virtual assistant built in Python that can lear
 
 ## 📸 Demo
 
-*(It is highly recommended to insert a screenshot or a short GIF here showing the assistant's interface in action. Upload the image to a folder in your repository (e.g., a `docs` folder) and replace the link below.)*
-
 ![Assistant Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/docs/screenshot.png)
 
 ---
